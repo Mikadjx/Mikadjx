@@ -23,8 +23,8 @@
   </p>
   <a href="https://github.com/Mikadjx/portfolio1.git">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;My PortFolio</a>
   <a href="https://github.com/Mikadjx/Project_Bootstrap.git">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Bootstrap Project</a>
-    <a href="https://github.com/Mikadjx/portfolio1.git">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp;  &nbsp; MasterMind JavaScript</a>
-      <a href="https://github.com/Mikadjx/portfolio1.git">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Onygo Angular</a>
+    <a href="https://github.com/Mikadjx/MasterMind_JS.git">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp;  &nbsp; MasterMind JavaScript</a>
+      <a href="https://github.com/Mikadjx/Onygo_Project_Angular.git">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Onygo Angular</a>
         
 
 
