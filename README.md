@@ -28,7 +28,7 @@
         
 
 
-<br><br><br><br><br><br><br><br><h3 align="left">&nbsp; &nbsp;&nbsp;You can find me:</h3><ul><br><p align="left"><a href="https://www.linkedin.com/in/mickael-dijoux-a58797252"><img src="https://zupimages.net/up/22/14/s2g7.png" width="30px"/></a> &nbsp; &nbsp;
+<br><br><br><br><br><br><br><br><h3 align="left">&nbsp; &nbsp;&nbsp;You can find me:</h3><ul><br><p align="left"><a href="https://www.linkedin.com/in/mickael-dijoux-a58797252"><img src="https://zupimages.net/up/22/14/s2g7.png" width="30px"/></a> &nbsp; &nbsp; &nbsp; &nbsp;
 <a href="https://twitter.com/Mickael_djx"><img src="https://zupimages.net/up/22/47/y776.png" width="30px"/></a><p align="left">
 <br> <p align="left">📫**dijoux_mickael@outlook.fr**</p>
  </ul>
