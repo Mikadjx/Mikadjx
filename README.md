@@ -37,9 +37,9 @@
  
 
 <li>📫 How to reach me <br></li>
-<br> <p align="center">**dijoux_mickael@outlook.fr**</p>
+<br> <p align="left">**dijoux_mickael@outlook.fr**</p>
 
-
+<p align="center">
 <br><br><img src="https://komarev.com/ghpvc/?username=mikadjx&label=Profile%20views&color=0e75b6&style=flat" alt="mikadjx"/></p>
 
 
