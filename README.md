@@ -1,9 +1,9 @@
 
 <h1 align="center">Hi there I'm Mickael 👋</h1>
-<br><p align="center"><img alt="coding" width="600" height="90" src="https://zupimages.net/up/22/47/hxxm.jpg" alt="" /></a></p>
+<br><p align="center"><img alt="coding" width="600" height="90" src="https://zupimages.net/up/22/47/hxxm.jpg" alt="" /></p>
 <h3 align="center">I'm a passionate Web Developer from France near to orleans</h3><br><br><br>
 <ul>
-<li> 🌱 I am proficient in HTML, CSS, Java Script and now i'm currently learning Angular and PHP.</h3></li>
+<li> 🌱 I am proficient in HTML, CSS, Java Script and now i'm currently learning Angular and PHP.</li>
 <li> 🔭 I’m currently working on Angular Project that me and my team are making with various interesting API and you can see this project down there.</li>
 </ul>
 
@@ -21,7 +21,11 @@
  <img src="https://zupimages.net/up/22/47/imi6.png" width="200px" height="200px"/>&nbsp;
  <img src="https://zupimages.net/up/22/47/638l.png" width="200px" height="200px"/>&nbsp;
   </p>
-  <p><a href="https://github.com/Mikadjx/portfolio1.git">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Mon PortFolio</p>
+  <a href="https://github.com/Mikadjx/portfolio1.git">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;My PortFolio</a>
+  <a href="https://github.com/Mikadjx/portfolio1.git">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Bootstrap Project</a>
+    <a href="https://github.com/Mikadjx/portfolio1.git">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;MasterMind JavaScript</a>
+      <a href="https://github.com/Mikadjx/portfolio1.git">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;Onygo Angular</a>
+        
 
 
 <br><h3 align="left">You can find me:</h3>
