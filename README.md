@@ -16,7 +16,7 @@
 <img alt="coding" width="300" height="200" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 
 <br><br><p align="left"> 
- <img src="https://zupimages.net/up/22/47/l1pf.png" width="200px" height="200px"/>&nbsp;
+ <img src="https://zupimages.net/up/22/47/1k37.jpg" width="200px" height="200px"/>&nbsp;
  <img src="https://zupimages.net/up/22/47/cmee.png" width="200px" height="200px"/>&nbsp;
  <img src="https://zupimages.net/up/22/47/imi6.png" width="200px" height="200px"/>&nbsp;
  <img src="https://zupimages.net/up/22/47/638l.png" width="200px" height="200px"/>&nbsp;
