@@ -4,7 +4,7 @@
 <h3 align="center">I'm a passionate Web Developer from France near to orleans</h3><br><br><br>
 <ul>
 <br><br><li> 🌱 I am proficient in HTML, CSS, Bootstrap and now i'm currently learning Angular and PHP.</h3></li>
-<li> 🔭 I’m currently working on Angular Project with my team and you can see this project down there.
+<li> 🔭 I’m currently working on Angular Project with my team and you can see all my project down there. 
   <br></li>
 <li>📫 How to reach me <br></li>
  <br> <p align="center">**dijoux_mickael@outlook.fr**</p>
@@ -17,11 +17,11 @@
 
 <br><h3 align="left">You can find me:</h3>
 <p align="left">
-<a href=”https://www.linkedin.com/in/Mickael/"><img align=”left” src=”https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt=”Yu Shi | LinkedIn” width=”21px”/></a>
-
+<a href="https://www.linkedin.com/in/mickael-dijoux-a58797252"><img src="https://zupimages.net/up/22/14/s2g7.png" width="30px"/></a>
+<a href="https://twitter.com/Mickael_djx"><img src="https://zupimages.net/up/22/47/y776.png" width="30px"/></a>
+</p>
 <br>
-    <br>
-    <br>
+   
 
 <h3 align="center">Technical Skills:</h3><br>
 <p align="center">
