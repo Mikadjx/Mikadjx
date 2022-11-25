@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi there I'm Mickael 👋</h1>
-<br><p align="center"><img alt="coding" width="600" height="90" src="https://zupimages.net/up/22/47/hxxm.jpg" alt="" /></p>
+<br><p align="center"><img alt="coding" width="600" height="150" src="https://zupimages.net/up/22/47/hxxm.jpg" alt="" /></p>
 <h3 align="center">I'm a passionate Web Developer from France near to orleans</h3><br><br><br>
 <ul>
 <li> 🌱 I am proficient in HTML, CSS, Java Script and now i'm currently learning Angular and PHP.</li>
