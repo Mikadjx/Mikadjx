@@ -24,7 +24,7 @@
   <a style="text-decoration:none" href="https://github.com/Mikadjx/portfolio1.git">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;My PortFolio</a>
   <a target=_blank style="text-decoration:none" href="https://mikadjx.github.io/Project_Bootstrap" target="_blank"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Bootstrap Project</a>
     <a style="text-decoration:none"href="https://github.com/Mikadjx/MasterMind_JS.git">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp;  &nbsp; MasterMind JavaScript</a>
-      <a style="text-decoration:none" href="https://github.com/Mikadjx/Onygo_Project_Angular.git">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Onygo Angular</a>
+      <a style="text-decoration:none" href="https://mikadjx.github.io/Onygo_Project_Angular">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Onygo Angular</a>
         
 
 
