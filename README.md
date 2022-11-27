@@ -21,7 +21,7 @@
  <img src="https://zupimages.net/up/22/47/imi6.png" width="200px" height="200px"/>&nbsp;
  <img src="https://zupimages.net/up/22/47/638l.png" width="200px" height="200px"/>&nbsp;
   </p>
-  <a style="text-decoration:none" href="https://github.com/Mikadjx/portfolio1.git">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;My PortFolio</a>
+  <a style="text-decoration:none" target="_blank href="https://github.com/Mikadjx/portfolio1.git">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;My PortFolio</a>
   <a style="text-decoration:none" href="https://mikadjx.github.io/Project_Bootstrap">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Bootstrap Project</a>
     <a style="text-decoration:none"href="https://github.com/Mikadjx/MasterMind_JS.git">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp;  &nbsp; MasterMind JavaScript</a>
       <a style="text-decoration:none" href="https://github.com/Mikadjx/Onygo_Project_Angular.git">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Onygo Angular</a>
