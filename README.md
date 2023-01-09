@@ -15,19 +15,7 @@
 <p align="center">
 <img alt="coding" width="300" height="200" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 
-<br><br><p align="left"> 
- <img src="https://zupimages.net/up/22/47/i5dq.jpg" width="200px" height="200px"/>&nbsp;
- <img src="https://zupimages.net/up/22/47/cmee.png" width="200px" height="200px"/>&nbsp;
- <img src="https://zupimages.net/up/22/47/imi6.png" width="200px" height="200px"/>&nbsp;
- <img src="https://zupimages.net/up/22/47/638l.png" width="200px" height="200px"/>&nbsp;
-  </p>
-  <a style="text-decoration:none" href="https://github.com/Mikadjx/portfolio1.git">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;My PortFolio</a>
-  <a target=_blank style="text-decoration:none" href="https://mikadjx.github.io/Project_Bootstrap" target="_blank"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Bootstrap Project</a>
-    <a style="text-decoration:none"href="https://github.com/Mikadjx/MasterMind_JS.git">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp;  &nbsp; MasterMind JavaScript</a>
-      <a style="text-decoration:none" href="https://mikadjx.github.io/Onygo_Project_Angular">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Onygo Angular</a>
         
-
-
 <br><br><br><br><br><br><br><br><h3 align="left">&nbsp; &nbsp;&nbsp;You can find me:</h3><ul><br><p align="left"><a href="https://www.linkedin.com/in/mickael-dijoux-a58797252"><img src="https://zupimages.net/up/22/14/s2g7.png" width="30px"/></a> &nbsp; &nbsp; &nbsp; &nbsp;
 <a href="https://twitter.com/Mickael_djx"><img src="https://zupimages.net/up/22/47/y776.png" width="30px"/></a><p align="left">
 <br> <p align="left">📫**dijoux_mickael@outlook.fr**</p>
