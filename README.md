@@ -14,7 +14,7 @@
 
 <br><h3 align="center">Technical Skills:</h3><br>
 <p align="center">
- <img src="https://zupimages.net/up/22/47/12n4.gif" alt="GifMika"/>
+
  </p>
 <br><br><br><h3 align="center">My Project </h3>
 <p align="center">
