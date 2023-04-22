@@ -3,9 +3,12 @@
 <br><p align="center"><img alt="coding" width="600" height="150" src="https://zupimages.net/up/22/47/hxxm.jpg" alt="" /></p>
 <h3 align="center">I'm a passionate Web Developer from France near to orleans</h3><br><br><br>
 
- I am pleased to inform you that my training as a Web and Mobile Web Developer has recently been completed 🎉. As a result, I am currently seeking an apprenticeship with a company as an Application Developer 🖥️. <br>
- 🌱 During the DWWM training, I acquired skills to work with front-end languages and frameworks such as HTML, CSS, SASS, Bootstrap, JavaScript, Angular, Ionic, as well as for the back-end part with PHP, Symfony, MySQL, Postgresql, and Node JS/Express..<br>
- 🔭 Currently, I am working with my team on a Symfony project, which involves designing a website that includes a secure electronic signature API for an insurance company's subscription request form.<br>
+ I am pleased to inform you that my training as a Web and Mobile Web Developer has recently been completed 🎉. As a result, I am currently seeking an apprenticeship with a company as an Application Developer 🖥️
+ 
+ 🌱 During the DWWM training, I acquired skills to work with front-end languages and frameworks such as HTML, CSS, SASS, Bootstrap, JavaScript, Angular, Ionic, as well as for the back-end part with PHP, Symfony, MySQL, Postgresql, and Node JS/Express..
+ 
+ 🔭 Currently, I am working with my team on a Symfony project, which involves designing a website that includes a secure electronic signature API for an insurance company's subscription request form.
+ 
   Below is a preview of the front-end part created using HTML/SASS and JavaScript : <a href="https://github.com/Mikadjx/Sarpgn_project">
 
 
