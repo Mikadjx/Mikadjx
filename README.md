@@ -5,7 +5,7 @@
 
  I am pleased to inform you that my training as a Web and Mobile Web Developer has recently been completed 🎉. As a result, I am currently seeking an apprenticeship with a company as an Application Developer 🖥️
  
- <div style="text-align: center;">🌱 During the DWWM training, I acquired skills to work with front-end languages and frameworks such as HTML, CSS, SASS, Bootstrap, JavaScript, Angular, Ionic, as well as for the back-end part with PHP, Symfony, MySQL, Postgresql, and Node JS/Express..</div>
+ <div style="text-align: left;">🌱 During the DWWM training, I acquired skills to work with front-end languages and frameworks such as HTML, CSS, SASS, Bootstrap, JavaScript, Angular, Ionic, as well as for the back-end part with PHP, Symfony, MySQL, Postgresql, and Node JS/Express..</div>
  
  <div style="text-align: center;">🔭 Currently, I am working with my team on a Symfony project, which involves designing a website that includes a secure electronic signature API for an insurance company's subscription request form.</div>
  
