@@ -9,7 +9,7 @@
 
  🔭 Currently, I am working with my team on a Symfony project, which involves designing a website that includes a secure electronic signature API for an insurance company's subscription request form.
  
- Below is a preview of the front-end part created using HTML/SASS and JavaScript : <a href="https://github.com/Mikadjx/Sarpgn_project">SARPGN_PROJECT</a>
+ Below is a preview of the front-end part created using HTML/SASS and JavaScript : <a href="https://github.com/Mikadjx/Sargn_Project">SARPGN_PROJECT</a>
 
 
 <br><h3 align="center">Technical Skills:</h3><br>
