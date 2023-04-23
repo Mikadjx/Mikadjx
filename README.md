@@ -14,13 +14,13 @@
 
 <br><h3 align="center">Technical Skills:</h3><br>
 <div align="center">
-<table style="width: 1700px;">
+<table>
   <thead>
     <tr>
       <th></th>
-      <th style="width: 550px;">BACK-END</th>
-      <th style="width: 550px;">FRONT-END</th>
-      <th style="width: 550px;">OUTILS</th>
+      <th> BACK-END</th>
+      <th >FRONT-END</th>
+      <th>OUTILS</th>
     </tr>
   </thead>
   <tbody>
