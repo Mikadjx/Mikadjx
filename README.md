@@ -66,7 +66,7 @@
  
 <br><br><br><h3 align="center">My Project </h3>
 <p align="center">
-<imgalt="coding" width="600" height="200" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
+<img width="600" height="200" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
  </p>
 
 <div style="display:flex;flex-wrap:wrap;margin-bottom:20px;">
