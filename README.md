@@ -73,7 +73,6 @@
     <div style="margin-right:20px;">
         <img style="width:500px;" src="" alt="Image de votre projet" style="margin-bottom:10px;">
         <h3 style="text-align:center;">SARPGN_PROJECT</h3>
-        <p>BONJOUR et bienvenue chez mideffefefeeffe</p>
     </div>
     <div style="margin-right:20px;">
         <img style="width:500px;" src="https://via.placeholder.com/150" alt="Image de votre projet" style="margin-bottom:10px;">
