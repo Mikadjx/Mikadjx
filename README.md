@@ -26,39 +26,39 @@
   <tbody>
     <tr>
       <td>Technologies</td>
-      <td> <img src="https://img.icons8.com/officexs/60/000000/php-logo.png"/> </td>
-      <td> <img src="https://img.icons8.com/color/60/000000/html-5--v1.png"/> </td>
-      <td> <img src="https://img.icons8.com/color/60/000000/git.png"/> </td>
+      <td> <img src="https://img.icons8.com/officexs/80/000000/php-logo.png"/> </td>
+      <td> <img src="https://img.icons8.com/color/80/000000/html-5--v1.png"/> </td>
+      <td> <img src="https://img.icons8.com/color/80/000000/git.png"/> </td>
     </tr>
     <tr>
      <td></td>
-      <td> <img src="https://img.icons8.com/color/60/000000/symfony.png"/> </td>
-      <td> <img src="https://img.icons8.com/color/60/000000/css3.png"/> </td>
-      <td> <img src="https://img.icons8.com/color/60/000000/trello.png"/> </td>
+      <td> <img src="https://img.icons8.com/color/80/000000/symfony.png"/> </td>
+      <td> <img src="https://img.icons8.com/color/80/000000/css3.png"/> </td>
+      <td> <img src="https://img.icons8.com/color/80/000000/trello.png"/> </td>
     </tr>
     <tr>
       <td></td>
-      <td> <img src="https://img.icons8.com/ios-filled/60/000000/mysql-logo.png"/> </td>
-      <td> <img src="https://img.icons8.com/color/60/000000/bootstrap.png"/> </td>
-      <td> <img src="https://img.icons8.com/fluent/60/000000/discord-new-logo.png"/> </td>
+      <td> <img src="https://img.icons8.com/ios-filled/80/000000/mysql-logo.png"/> </td>
+      <td> <img src="https://img.icons8.com/color/80/000000/bootstrap.png"/> </td>
+      <td> <img src="https://img.icons8.com/fluent/80/000000/discord-new-logo.png"/> </td>
     </tr>
     <tr>
       <td></td>
-      <td> <img src="https://img.icons8.com/color/60/000000/postgreesql.png"/> </td>
-      <td> <img src="https://img.icons8.com/color/60/000000/javascript--v1.png"/> </td>
-      <td> <img src="https://img.icons8.com/color/60/000000/visual-studio-code-2019.png"/> </td>
+      <td> <img src="https://img.icons8.com/color/80/000000/postgreesql.png"/> </td>
+      <td> <img src="https://img.icons8.com/color/80/000000/javascript--v1.png"/> </td>
+      <td> <img src="https://img.icons8.com/color/80/000000/visual-studio-code-2019.png"/> </td>
     </tr>
     <tr>
       <td></td>
-      <td> <img src="https://img.icons8.com/color/60/000000/nodejs.png"/> </td>
-      <td> <img src="https://img.icons8.com/color/60/000000/angularjs.png"/> </td>
+      <td> <img src="https://img.icons8.com/color/80/000000/nodejs.png"/> </td>
+      <td> <img src="https://img.icons8.com/color/80/000000/angularjs.png"/> </td>
       <td>  </td>
     </tr>
     <tr>
     <td></td>
-      <td> <img src="https://img.icons8.com/color/60/000000/mongodb.png"/> </td>
-      <td> <img src="https://img.icons8.com/color/60/000000/ionic.png"/> </td>
-      <td> <img src="https://img.icons8.com/color/60/000000/figma--v1.png"/> </td>
+      <td> <img src="https://img.icons8.com/color/80/000000/mongodb.png"/> </td>
+      <td> <img src="https://img.icons8.com/color/80/000000/ionic.png"/> </td>
+      <td> <img src="https://img.icons8.com/color/80/000000/figma--v1.png"/> </td>
     </tr>
   </tbody>
 </table>
@@ -71,9 +71,9 @@
 
 <div style="display:flex;flex-wrap:wrap;margin-bottom:20px;">
     <div style="margin-right:20px;">
-        <img style="width:500px;" src="https://github.com/Mikadjx/Mikadjx/blob/main/sarpn_page.png" alt="Image de votre projet" style="margin-bottom:10px;">
+        <img style="width:500px;" src="" alt="Image de votre projet" style="margin-bottom:10px;">
         <h3 style="text-align:center;">SARPGN_PROJECT</h3>
-        <p></p>
+        <p>BONJOUR et bienvenue chez mideffefefeeefefefefefeeffe</p>
     </div>
     <div style="margin-right:20px;">
         <img style="width:500px;" src="https://via.placeholder.com/150" alt="Image de votre projet" style="margin-bottom:10px;">
