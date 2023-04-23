@@ -14,7 +14,7 @@
 
 <br><h3 align="center">Technical Skills:</h3><br>
 
-<table style="width: 100%">
+<table style="width: 800px">
   <thead>
     <tr>
       <th style="width: 25%;">BACK-END</th>
