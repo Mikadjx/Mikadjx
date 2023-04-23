@@ -19,50 +19,27 @@
   <thead>
     <tr>
       <th></th>
-      <th>BACK-END</th>
-      <th>FRONT-END</th>
-      <th>OUTILS</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Technologies</td>
-      <td> <img src="lien_vers_logo_PHP" width="50" height="50"> </td>
-      <td> <img src="lien_vers_logo_HTML" width="50" height="50"> </td>
-      <td> <img src="lien_vers_logo_GIT" width="50" height="50"> </td>
+      <th style="text-align:center" colspan="4">BACK-END</th>
+      <th style="text-align:center" colspan="6">FRONT-END</th>
+      <th style="text-align:center" colspan="6">OUTILS</th>
     </tr>
     <tr>
-      <td></td>
-      <td> <img src="lien_vers_logo_Symfony" width="50" height="50"> </td>
-      <td> <img src="lien_vers_logo_CSS_SASS" width="50" height="50"> </td>
-      <td> <img src="lien_vers_logo_Trello" width="50" height="50"> </td>
-    </tr>
-    <tr>
-      <td></td>
-      <td> <img src="lien_vers_logo_MySQL" width="50" height="50"> </td>
-      <td> <img src="lien_vers_logo_Bootstrap" width="50" height="50"> </td>
-      <td> <img src="lien_vers_logo_Discord" width="50" height="50"> </td>
-    </tr>
-    <tr>
-      <td></td>
-      <td> <img src="lien_vers_logo_PostgreSQL" width="50" height="50"> </td>
-      <td> <img src="lien_vers_logo_JavaScript" width="50" height="50"> </td>
-      <td> <img src="lien_vers_logo_VS_Code" width="50" height="50"> </td>
-    </tr>
-    <tr>
-      <td></td>
-      <td> <img src="lien_vers_logo_Node.js" width="50" height="50"> </td>
-      <td> <img src="lien_vers_logo_Angular" width="50" height="50"> </td>
-      <td> <img src="lien_vers_logo_Lucidchart" width="50" height="50"> </td>
-    </tr>
-    <tr>
-      <td></td>
-      <td> <img src="lien_vers_logo_MongoDB" width="50" height="50"> </td>
-      <td> <img src="lien_vers_logo_Ionic" width="50" height="50"> </td>
-      <td> <img src="lien_vers_logo_Figma" width="50" height="50"> </td>
-    </tr>
-  </tbody>
-</table>        |
+      <th></th>
+      <th style="text-align:center"><img src="https://cdn.iconscout.com/icon/free/png-256/php-99-1175127.png" alt="PHP" height="50"></th>
+      <th style="text-align:center"><img src="https://cdn.iconscout.com/icon/free/png-256/symfony-282496.png" alt="Symfony" height="50"></th>
+      <th style="text-align:center"><img src="https://cdn.iconscout.com/icon/free/png-256/mysql-19-1174939.png" alt="MySQL" height="50"></th>
+      <th style="text-align:center"><img src="https://cdn.iconscout.com/icon/free/png-256/postgresql-11-1175122.png" alt="PostgreSQL" height="50"></th>
+      <th style="text-align:center"><img src="https://cdn.iconscout.com/icon/free/png-256/node-js-1174925.png" alt="Node.js" height="50"></th>
+      <th style="text-align:center"><img src="https://cdn.iconscout.com/icon/free/png-256/mongodb-5-1175096.png" alt="MongoDB" height="50"></th>
+      <th style="text-align:center"><img src="https://cdn.iconscout.com/icon/free/png-256/html5-2038871-1720089.png" alt="HTML" height="50"></th>
+      <th style="text-align:center"><img src="https://cdn.iconscout.com/icon/free/png-256/css-131-722685.png" alt="CSS/SASS" height="50"></th>
+      <th style="text-align:center"><img src="https://cdn.iconscout.com/icon/free/png-256/bootstrap-7-1175254.png" alt="Bootstrap" height="50"></th>
+      <th style="text-align:center"><img src="https://cdn.iconscout.com/icon/free/png-256/javascript-2038874-1720087.png" alt="JavaScript" height="50"></th>
+      <th style="text-align:center"><img src="https://cdn.iconscout.com/icon/free/png-256/angular-8-1174944.png" alt="Angular" height="50"></th>
+      <th style="text-align:center"><img src="https://cdn.iconscout.com/icon/free/png-256/ionic-4-1175013.png" alt="Ionic" height="50"></th>
+      <th style="text-align:center"><img src="https://cdn.iconscout.com/icon/free/png-256/git-18-1175219.png" alt="Git" height="50"></th>
+      <th style="text-align:center"><img src="https://cdn.iconscout.com/icon/free/png-256/trello-6-1175199.png" alt="Trello" height="50"></th>
+      <th style="text-align:center"><img src="https://cdn.iconscout.com/icon/free/png-256/discord-1868368-1587407.png" alt="Discord" height     |
 </div>
 <br><br><br><h3 align="center">My Project </h3>
 <p align="center">
