@@ -72,38 +72,21 @@
 <div style="display:flex;flex-wrap:wrap;margin-bottom:20px;">
     <div style="margin-right:20px;">
         <img src="https://via.placeholder.com/150" alt="Image de votre projet" style="margin-bottom:10px;">
-        <h3 style="text-align:center;">Titre de votre projet</h3>
-        <p>Description de votre projet</p>
+        <h3 style="text-align:center;">SARPGN_PROJECT</h3>
+        <p></p>
     </div>
     <div style="margin-right:20px;">
         <img src="https://via.placeholder.com/150" alt="Image de votre projet" style="margin-bottom:10px;">
-        <h3 style="text-align:center;">Titre de votre projet</h3>
-        <p>Description de votre projet</p>
+        <h3 style="text-align:center;">LIFEAZ_PROJECT</h3>
+        <p></p>
     </div>
     <div>
         <img src="https://via.placeholder.com/150" alt="Image de votre projet" style="margin-bottom:10px;">
-        <h3 style="text-align:center;">Titre de votre projet</h3>
-        <p>Description de votre projet</p>
+        <h3 style="text-align:center;">ONYGO</h3>
+        <p></p>
     </div>
 </div>
 
-<div style="display:flex;justify-content:center;margin-top:20px;">
-  <div style="display:flex;flex-direction:column;align-items:center;margin-right:20px;">
-    <img src="https://via.placeholder.com/150" alt="Image de votre projet" style="margin-bottom:10px;">
-    <h3 style="text-align:center;">Titre de votre projet</h3>
-    <p>Description de votre projet</p>
-  </div>
-  <div style="display:flex;flex-direction:column;align-items:center;margin-right:20px;">
-    <img src="https://via.placeholder.com/150" alt="Image de votre projet" style="margin-bottom:10px;">
-    <h3 style="text-align:center;">Titre de votre projet</h3>
-    <p>Description de votre projet</p>
-  </div>
-  <div style="display:flex;flex-direction:column;align-items:center;">
-    <img src="https://via.placeholder.com/150" alt="Image de votre projet" style="margin-bottom:10px;">
-    <h3 style="text-align:center;">Titre de votre projet</h3>
-    <p>Description de votre projet</p>
-  </div>
-</div>
 
         
 <br><br><br><br><br><br><br><br><h3 align="left">&nbsp; &nbsp;&nbsp;You can find me:</h3><ul><br><p align="left"><a href="https://www.linkedin.com/in/mickael-dijoux-a58797252"><img src="https://zupimages.net/up/22/14/s2g7.png" width="30px"/></a> &nbsp; &nbsp; &nbsp; &nbsp;
