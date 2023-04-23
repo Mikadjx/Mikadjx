@@ -74,13 +74,12 @@
         <img style="width:500px;" src="https://github.com/Mikadjx/Mikadjx/blob/main/sarpn_page.png" alt="Image de votre projet" style="margin-bottom:10px;">
         <h3 style="text-align:center;">SARPGN_PROJECT</h3>
      <p></p>
- </div>
-    </div>
+    </div><br><br><br>
     <div align="center" style="margin-right:20px;">
         <img style="width:150px;" src="https://github.com/Mikadjx/Mikadjx/blob/main/DASHBOARD_MOBILE_Ui_Mat%C3%A9riel_D%C3%A9fibrillateurs.jpg" alt="Image de votre projet" style="margin-bottom:10px;">
         <h3 style="text-align:center;">LIFEAZ_PROJECT</h3>
         <p></p>
-    </div>
+    </div><br><br><br>
     <div align="center">
         <img style="width:500px;" src="https://github.com/Mikadjx/Mikadjx/blob/main/Projet_Onygo.png" alt="Image de votre projet" style="margin-bottom:10px;">
         <h3 style="text-align:center;">ONYGO</h3>
