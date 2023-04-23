@@ -13,7 +13,7 @@
 
 
 <br><h3 align="center">Technical Skills:</h3><br>
-
+<div align="center">
 <table>
   <thead>
     <tr>
@@ -62,6 +62,7 @@
     </tr>
   </tbody>
 </table>
+ </div>
 <br><br><br><h3 align="center">My Project </h3>
 <p align="center">
 <img alt="coding" width="300" height="200" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
