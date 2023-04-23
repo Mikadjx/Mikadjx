@@ -17,9 +17,9 @@
 <table style="width: 800px;">
   <thead>
     <tr>
-      <th style="width: 25%;">BACK-END</th>
-      <th style="width: 45%; text-align: center">FRONT-END</th>
-      <th style="width: 30%; text-align: center">OUTILS</th>
+      <th>BACK-END</th>
+      <th>FRONT-END</th>
+      <th>OUTILS</th>
     </tr>
   </thead>
   <tbody>
