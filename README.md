@@ -22,7 +22,7 @@
 |     | ![MySQL](lien_vers_logo_MySQL)               | ![Bootstrap](lien_vers_logo_Bootstrap)         | ![Discord](lien_vers_logo_Discord)           |
 |     | ![PostgreSQL](lien_vers_logo_PostgreSQL)     | ![JavaScript](lien_vers_logo_JavaScript)       | ![VS Code](lien_vers_logo_VS_Code)           |
 |     | ![Node.js](lien_vers_logo_Node.js)           | ![Angular](lien_vers_logo_Angular)             | ![Lucidchart](lien_vers_logo_Lucidchart)     |
-|     | ![MongoDB](lien_vers_logo_MongoDB)           | ![Ionic](lien_vers_logo_Ionic)                 | ![Figma](lien_vers_logo_Figma)               |
+|     | ![MongoDB](lien_vers_logo_MongoDB)           | ![Ionic]![62a7475d223343fbc2207cff](https://user-images.githubusercontent.com/109203536/233833474-d05134e4-0ef4-4bc3-9d4c-4a71f07db12d.png)             | ![Figma](lien_vers_logo_Figma)               |
 </div>
 <br><br><br><h3 align="center">My Project </h3>
 <p align="center">
