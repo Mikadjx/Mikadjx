@@ -67,7 +67,7 @@
 <br><br><br><h3 align="center">My Project </h3>
 <p align="center">
 <img alt="coding" width="300" height="200" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
- 
+ </p>
 
 <div style="display:flex;flex-wrap:wrap;margin-bottom:20px;">
     <div align="center" style="margin-right:20px;">
