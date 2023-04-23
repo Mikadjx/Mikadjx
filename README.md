@@ -18,9 +18,9 @@
   <thead>
     <tr>
       <th></th>
-      <th style="width: 150px;">BACK-END</th>
-      <th style="width: 150px;">FRONT-END</th>
-      <th style="width: 150px;">OUTILS</th>
+      <th style="width: 550px;">BACK-END</th>
+      <th style="width: 550px;">FRONT-END</th>
+      <th style="width: 550px;">OUTILS</th>
     </tr>
   </thead>
   <tbody>
