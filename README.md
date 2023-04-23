@@ -76,7 +76,7 @@
  </div>
     </div>
     <div style="margin-right:20px;">
-        <img style="width:300px;" src="https://github.com/Mikadjx/Mikadjx/blob/main/DASHBOARD_MOBILE_Ui_Mat%C3%A9riel_D%C3%A9fibrillateurs.jpg" alt="Image de votre projet" style="margin-bottom:10px;">
+        <img style="width:150px;" src="https://github.com/Mikadjx/Mikadjx/blob/main/DASHBOARD_MOBILE_Ui_Mat%C3%A9riel_D%C3%A9fibrillateurs.jpg" alt="Image de votre projet" style="margin-bottom:10px;">
         <h3 style="text-align:center;">LIFEAZ_PROJECT</h3>
         <p></p>
     </div>
