@@ -18,8 +18,8 @@
   <thead>
     <tr>
       <th>BACK-END</th>
-      <th style="width: 120px; text-align: center">FRONT-END</th>
-      <th style="width: 100px; text-align: center">OUTILS</th>
+      <th style="width: 500px; text-align: center">FRONT-END</th>
+      <th style="width: 400px; text-align: center">OUTILS</th>
     </tr>
   </thead>
   <tbody>
