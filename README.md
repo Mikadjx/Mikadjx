@@ -31,31 +31,31 @@
       <td> <img src="https://img.icons8.com/color/80/000000/git.png"/> </td>
     </tr>
     <tr>
-      <td></td>
+    
       <td> <img src="https://img.icons8.com/color/80/000000/symfony.png"/> </td>
       <td> <img src="https://img.icons8.com/color/80/000000/css3.png"/> </td>
       <td> <img src="https://img.icons8.com/color/80/000000/trello.png"/> </td>
     </tr>
     <tr>
-      <td></td>
+     
       <td> <img src="https://img.icons8.com/ios-filled/80/000000/mysql-logo.png"/> </td>
       <td> <img src="https://img.icons8.com/color/80/000000/bootstrap.png"/> </td>
       <td> <img src="https://img.icons8.com/fluent/80/000000/discord-new-logo.png"/> </td>
     </tr>
     <tr>
-      <td></td>
+     
       <td> <img src="https://img.icons8.com/color/80/000000/postgreesql.png"/> </td>
       <td> <img src="https://img.icons8.com/color/80/000000/javascript--v1.png"/> </td>
       <td> <img src="https://img.icons8.com/color/80/000000/visual-studio-code-2019.png"/> </td>
     </tr>
     <tr>
-      <td></td>
+     
       <td> <img src="https://img.icons8.com/color/80/000000/nodejs.png"/> </td>
       <td> <img src="https://img.icons8.com/color/80/000000/angularjs.png"/> </td>
       <td>  </td>
     </tr>
     <tr>
-      <td></td>
+   
       <td> <img src="https://img.icons8.com/color/80/000000/mongodb.png"/> </td>
       <td> <img src="https://img.icons8.com/color/80/000000/ionic.png"/> </td>
       <td> <img src="https://img.icons8.com/color/80/000000/figma--v1.png"/> </td>
