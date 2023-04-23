@@ -14,14 +14,14 @@
 
 <br><h3 align="center">Technical Skills:</h3><br>
 
-| BACK-END | <th style="width: 120px; text-align: center">FRONT-END</th> | <th style="width: 100px; text-align: center">OUTILS</th> |
-| -------- | :------: | ---------: |
-| PHP | HTML | GIT |
-| Symfony | CSS/SASS | Trello |
-| MySQL | Bootstrap | Discord |
-| PostgreSQL | JavaScript | VS Code |
-| Node.js | Angular | Lucidchart |
-| MongoDB | Ionic | Figma |
+| BACK-END       | FRONT-END           | OUTILS      |
+| -------------- | ------------------- | -----------|
+| ![#f44336](https://via.placeholder.com/15/f44336/000000?text=+) PHP          | ![#e7e7e7](https://via.placeholder.com/15/e7e7e7/000000?text=+) HTML               | ![#4CAF50](https://via.placeholder.com/15/4CAF50/000000?text=+) GIT       |
+| ![#673ab7](https://via.placeholder.com/15/673ab7/000000?text=+) Symfony      | ![#b3b3b3](https://via.placeholder.com/15/b3b3b3/000000?text=+) CSS/SASS           | ![#007acc](https://via.placeholder.com/15/007acc/000000?text=+) Trello    |
+| ![#2196F3](https://via.placeholder.com/15/2196F3/000000?text=+) MySQL        | ![#795548](https://via.placeholder.com/15/795548/000000?text=+) Bootstrap         | ![#7289DA](https://via.placeholder.com/15/7289DA/000000?text=+) Discord   |
+| ![#9C27B0](https://via.placeholder.com/15/9C27B0/000000?text=+) PostgreSQL  | ![#FFC107](https://via.placeholder.com/15/FFC107/000000?text=+) JavaScript       | ![#007acc](https://via.placeholder.com/15/007acc/000000?text=+) VS Code   |
+| ![#4CAF50](https://via.placeholder.com/15/4CAF50/000000?text=+) Node.js     | ![#E91E63](https://via.placeholder.com/15/E91E63/000000?text=+) Angular          | ![#1F8B4C](https://via.placeholder.com/15/1F8B4C/000000?text=+) Lucidchart |
+| ![#9C27B0](https://via.placeholder.com/15/9C27B0/000000?text=+) MongoDB     | ![#607D8B](https://via.placeholder.com/15/607D8B/000000?text=+) Ionic            | ![#F24E1E](https://via.placeholder.com/15/F24E1E/000000?text=+) Figma     |
 
 <br><br><br><h3 align="center">My Project </h3>
 <p align="center">
