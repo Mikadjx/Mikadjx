@@ -13,34 +13,55 @@
 
 
 <br><h3 align="center">Technical Skills:</h3><br>
-<div align="center">
-     
+
 <table>
   <thead>
     <tr>
       <th></th>
-      <th style="text-align:center" colspan="4">BACK-END</th>
-      <th style="text-align:center" colspan="6">FRONT-END</th>
-      <th style="text-align:center" colspan="6">OUTILS</th>
+      <th>BACK-END</th>
+      <th>FRONT-END</th>
+      <th>OUTILS</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Technologies</td>
+      <td> <img src="https://img.icons8.com/officexs/80/000000/php-logo.png"/> </td>
+      <td> <img src="https://img.icons8.com/color/80/000000/html-5--v1.png"/> </td>
+      <td> <img src="https://img.icons8.com/color/80/000000/git.png"/> </td>
     </tr>
     <tr>
-      <th></th>
-      <th style="text-align:center"><img src="https://cdn.iconscout.com/icon/free/png-256/php-99-1175127.png" alt="PHP" height="50"></th>
-      <th style="text-align:center"><img src="https://cdn.iconscout.com/icon/free/png-256/symfony-282496.png" alt="Symfony" height="50"></th>
-      <th style="text-align:center"><img src="https://cdn.iconscout.com/icon/free/png-256/mysql-19-1174939.png" alt="MySQL" height="50"></th>
-      <th style="text-align:center"><img src="https://cdn.iconscout.com/icon/free/png-256/postgresql-11-1175122.png" alt="PostgreSQL" height="50"></th>
-      <th style="text-align:center"><img src="https://cdn.iconscout.com/icon/free/png-256/node-js-1174925.png" alt="Node.js" height="50"></th>
-      <th style="text-align:center"><img src="https://cdn.iconscout.com/icon/free/png-256/mongodb-5-1175096.png" alt="MongoDB" height="50"></th>
-      <th style="text-align:center"><img src="https://cdn.iconscout.com/icon/free/png-256/html5-2038871-1720089.png" alt="HTML" height="50"></th>
-      <th style="text-align:center"><img src="https://cdn.iconscout.com/icon/free/png-256/css-131-722685.png" alt="CSS/SASS" height="50"></th>
-      <th style="text-align:center"><img src="https://cdn.iconscout.com/icon/free/png-256/bootstrap-7-1175254.png" alt="Bootstrap" height="50"></th>
-      <th style="text-align:center"><img src="https://cdn.iconscout.com/icon/free/png-256/javascript-2038874-1720087.png" alt="JavaScript" height="50"></th>
-      <th style="text-align:center"><img src="https://cdn.iconscout.com/icon/free/png-256/angular-8-1174944.png" alt="Angular" height="50"></th>
-      <th style="text-align:center"><img src="https://cdn.iconscout.com/icon/free/png-256/ionic-4-1175013.png" alt="Ionic" height="50"></th>
-      <th style="text-align:center"><img src="https://cdn.iconscout.com/icon/free/png-256/git-18-1175219.png" alt="Git" height="50"></th>
-      <th style="text-align:center"><img src="https://cdn.iconscout.com/icon/free/png-256/trello-6-1175199.png" alt="Trello" height="50"></th>
-      <th style="text-align:center"><img src="https://cdn.iconscout.com/icon/free/png-256/discord-1868368-1587407.png" alt="Discord" height     |
-</div>
+      <td></td>
+      <td> <img src="https://img.icons8.com/color/80/000000/symfony.png"/> </td>
+      <td> <img src="https://img.icons8.com/color/80/000000/css3.png"/> </td>
+      <td> <img src="https://img.icons8.com/color/80/000000/trello.png"/> </td>
+    </tr>
+    <tr>
+      <td></td>
+      <td> <img src="https://img.icons8.com/ios-filled/80/000000/mysql-logo.png"/> </td>
+      <td> <img src="https://img.icons8.com/color/80/000000/bootstrap.png"/> </td>
+      <td> <img src="https://img.icons8.com/fluent/80/000000/discord-new-logo.png"/> </td>
+    </tr>
+    <tr>
+      <td></td>
+      <td> <img src="https://img.icons8.com/color/80/000000/postgreesql.png"/> </td>
+      <td> <img src="https://img.icons8.com/color/80/000000/javascript--v1.png"/> </td>
+      <td> <img src="https://img.icons8.com/color/80/000000/visual-studio-code-2019.png"/> </td>
+    </tr>
+    <tr>
+      <td></td>
+      <td> <img src="https://img.icons8.com/color/80/000000/nodejs.png"/> </td>
+      <td> <img src="https://img.icons8.com/color/80/000000/angularjs.png"/> </td>
+      <td> <img src="https://img.icons8.com/color/80/000000/lucidchart.png"/> </td>
+    </tr>
+    <tr>
+      <td></td>
+      <td> <img src="https://img.icons8.com/color/80/000000/mongodb.png"/> </td>
+      <td> <img src="https://img.icons8.com/color/80/000000/ionic.png"/> </td>
+      <td> <img src="https://img.icons8.com/color/80/000000/figma--v1.png"/> </td>
+    </tr>
+  </tbody>
+</table>
 <br><br><br><h3 align="center">My Project </h3>
 <p align="center">
 <img alt="coding" width="300" height="200" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
