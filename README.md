@@ -15,14 +15,54 @@
 <br><h3 align="center">Technical Skills:</h3><br>
 <div align="center">
      
-|     | BACK-END                                    | FRONT-END                                     | OUTILS                                      |
-| --- | ------------------------------------------- | --------------------------------------------- | ------------------------------------------- |
-|     | ![PHP](lien_vers_logo_PHP)                   | ![HTML](lien_vers_logo_HTML)                  | ![GIT](lien_vers_logo_GIT)                   |
-|     | ![Symfony](lien_vers_logo_Symfony)           | ![CSS/SASS](lien_vers_logo_CSS_SASS)           | ![Trello](lien_vers_logo_Trello)             |
-|     | ![MySQL](lien_vers_logo_MySQL)               | ![Bootstrap](lien_vers_logo_Bootstrap)         | ![Discord](lien_vers_logo_Discord)           |
-|     | ![PostgreSQL](lien_vers_logo_PostgreSQL)     | ![JavaScript](lien_vers_logo_JavaScript)       | ![VS Code](lien_vers_logo_VS_Code)           |
-|     | ![Node.js](lien_vers_logo_Node.js)           | ![Angular](lien_vers_logo_Angular)             | ![Lucidchart](lien_vers_logo_Lucidchart)     |
-|     | ![MongoDB](lien_vers_logo_MongoDB)           | ![Ionic]![62a7475d223343fbc2207cff](https://user-images.githubusercontent.com/109203536/233833474-d05134e4-0ef4-4bc3-9d4c-4a71f07db12d.png)             | ![Figma](lien_vers_logo_Figma)               |
+<table>
+  <thead>
+    <tr>
+      <th></th>
+      <th>BACK-END</th>
+      <th>FRONT-END</th>
+      <th>OUTILS</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Technologies</td>
+      <td> <img src="lien_vers_logo_PHP" width="50" height="50"> </td>
+      <td> <img src="lien_vers_logo_HTML" width="50" height="50"> </td>
+      <td> <img src="lien_vers_logo_GIT" width="50" height="50"> </td>
+    </tr>
+    <tr>
+      <td></td>
+      <td> <img src="lien_vers_logo_Symfony" width="50" height="50"> </td>
+      <td> <img src="lien_vers_logo_CSS_SASS" width="50" height="50"> </td>
+      <td> <img src="lien_vers_logo_Trello" width="50" height="50"> </td>
+    </tr>
+    <tr>
+      <td></td>
+      <td> <img src="lien_vers_logo_MySQL" width="50" height="50"> </td>
+      <td> <img src="lien_vers_logo_Bootstrap" width="50" height="50"> </td>
+      <td> <img src="lien_vers_logo_Discord" width="50" height="50"> </td>
+    </tr>
+    <tr>
+      <td></td>
+      <td> <img src="lien_vers_logo_PostgreSQL" width="50" height="50"> </td>
+      <td> <img src="lien_vers_logo_JavaScript" width="50" height="50"> </td>
+      <td> <img src="lien_vers_logo_VS_Code" width="50" height="50"> </td>
+    </tr>
+    <tr>
+      <td></td>
+      <td> <img src="lien_vers_logo_Node.js" width="50" height="50"> </td>
+      <td> <img src="lien_vers_logo_Angular" width="50" height="50"> </td>
+      <td> <img src="lien_vers_logo_Lucidchart" width="50" height="50"> </td>
+    </tr>
+    <tr>
+      <td></td>
+      <td> <img src="lien_vers_logo_MongoDB" width="50" height="50"> </td>
+      <td> <img src="lien_vers_logo_Ionic" width="50" height="50"> </td>
+      <td> <img src="lien_vers_logo_Figma" width="50" height="50"> </td>
+    </tr>
+  </tbody>
+</table>        |
 </div>
 <br><br><br><h3 align="center">My Project </h3>
 <p align="center">
