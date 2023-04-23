@@ -68,45 +68,24 @@
 <p align="center">
 <img alt="coding" width="300" height="200" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 
-<div style="display:flex;flex-direction:row;align-items:center;margin-bottom:20px;">
-    <img src="https://via.placeholder.com/150" alt="Image de votre projet" style="margin-bottom:10px;">
-    <h3 style="text-align:center;">Wireframing AFPA</h3>
-    <p></p>
+<div style="display:flex;justify-content:center;align-items:center;margin-bottom:20px;">
+    <div style="margin-right:20px;">
+        <img src="https://via.placeholder.com/150" alt="Image de votre projet" style="margin-bottom:10px;">
+        <h3 style="text-align:center;">Titre de votre projet</h3>
+        <p>Description de votre projet</p>
+    </div>
+    <div style="margin-right:20px;">
+        <img src="https://via.placeholder.com/150" alt="Image de votre projet" style="margin-bottom:10px;">
+        <h3 style="text-align:center;">Titre de votre projet</h3>
+        <p>Description de votre projet</p>
+    </div>
+    <div>
+        <img src="https://via.placeholder.com/150" alt="Image de votre projet" style="margin-bottom:10px;">
+        <h3 style="text-align:center;">Titre de votre projet</h3>
+        <p>Description de votre projet</p>
+    </div>
 </div>
 
-<div style="display:flex;flex-direction:row;align-items:center;margin-bottom:20px;">
-    <img src="https://via.placeholder.com/150" alt="Image de votre projet" style="margin-bottom:10px;">
-    <h3 style="text-align:center;">Bootstrap_Project</h3>
-    <p></p>
-</div>
-<div style="display:flex;flex-direction:row;align-items:center;margin-bottom:20px;">
-    <img src="https://via.placeholder.com/150" alt="Image de votre projet" style="margin-bottom:10px;">
-    <h3 style="text-align:center;">LifeAz_Project</h3>
-    <p></p>
-</div>
-<div style="display:flex;flex-direction:row;align-items:center;margin-bottom:20px;">
-    <img src="https://via.placeholder.com/150" alt="Image de votre projet" style="margin-bottom:10px;">
-    <h3 style="text-align:center;">Onygo</h3>
-    <p></p>
-</div>
-
-<div style="display:flex;flex-direction:row;align-items:center;margin-bottom:20px;">
-    <img src="https://via.placeholder.com/150" alt="Image de votre projet" style="margin-bottom:10px;">
-    <h3 style="text-align:center;">Portfolio</h3>
-    <p></p>
-</div>
-
-<div style="display:flex;flex-direction:row;align-items:center;margin-bottom:20px;">
-    <img src="https://via.placeholder.com/150" alt="Image de votre projet" style="margin-bottom:10px;">
-    <h3 style="text-align:center;">API_NodeJS</h3>
-    <p></p>
-</div>
-
-<div style="display:flex;flex-direction:row;align-items:center;margin-bottom:20px;">
-    <img src="https://via.placeholder.com/150" alt="Image de votre projet" style="margin-bottom:10px;">
-    <h3 style="text-align:center;">Sarpgn_Project</h3>
-    <p></p>
-</div>
         
 <br><br><br><br><br><br><br><br><h3 align="left">&nbsp; &nbsp;&nbsp;You can find me:</h3><ul><br><p align="left"><a href="https://www.linkedin.com/in/mickael-dijoux-a58797252"><img src="https://zupimages.net/up/22/14/s2g7.png" width="30px"/></a> &nbsp; &nbsp; &nbsp; &nbsp;
 <a href="https://twitter.com/Mickael_djx"><img src="https://zupimages.net/up/22/47/y776.png" width="30px"/></a><p align="left">
