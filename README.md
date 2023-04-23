@@ -13,13 +13,13 @@
 
 
 <br><h3 align="center">Technical Skills:</h3><br>
-<p align="center">
+
 | Aligné à gauche | Centré | Aligné à droite |
 | :-------------- | :---: | ---------------: |
 | élément 1       | élément 2 | élément 3       |
 | élément 4       | élément 5 | élément 6       |
 | élément 7       | élément 8 | élément 9       |
- </p>
+
 <br><br><br><h3 align="center">My Project </h3>
 <p align="center">
 <img alt="coding" width="300" height="200" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
