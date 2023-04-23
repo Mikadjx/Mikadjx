@@ -23,6 +23,29 @@
 | NODE JS | ANGULAR | GIT |
 | EXPRESS | IONIC | LUCIDCHART |
 
+<table style="width: 500px">
+  <tr>
+    <th>Colonne 1</th>
+    <th>Colonne 2</th>
+    <th>Colonne 3</th>
+  </tr>
+  <tr>
+    <td>Contenu de la colonne 1</td>
+    <td>Contenu de la colonne 2</td>
+    <td>Contenu de la colonne 3</td>
+  </tr>
+  <tr>
+    <td>Contenu de la colonne 1</td>
+    <td>Contenu de la colonne 2</td>
+    <td>Contenu de la colonne 3</td>
+  </tr>
+  <tr>
+    <td>Contenu de la colonne 1</td>
+    <td>Contenu de la colonne 2</td>
+    <td>Contenu de la colonne 3</td>
+  </tr>
+</table>
+
 <br><br><br><h3 align="center">My Project </h3>
 <p align="center">
 <img alt="coding" width="300" height="200" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
