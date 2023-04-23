@@ -71,17 +71,17 @@
 
 <div style="display:flex;flex-wrap:wrap;margin-bottom:20px;">
     <div style="margin-right:20px;">
-        <img style="width:100px;" src="https://github.com/Mikadjx/Mikadjx/blob/main/Projet_Onygo.png" alt="Image de votre projet" style="margin-bottom:10px;">
+        <img style="width:500px;" src="https://github.com/Mikadjx/Mikadjx/blob/main/Projet_Onygo.png" alt="Image de votre projet" style="margin-bottom:10px;">
         <h3 style="text-align:center;">SARPGN_PROJECT</h3>
         <p></p>
     </div>
     <div style="margin-right:20px;">
-        <img style="width:100px;" src="https://via.placeholder.com/150" alt="Image de votre projet" style="margin-bottom:10px;">
+        <img style="width:500px;" src="https://via.placeholder.com/150" alt="Image de votre projet" style="margin-bottom:10px;">
         <h3 style="text-align:center;">LIFEAZ_PROJECT</h3>
         <p></p>
     </div>
     <div>
-        <img style="width:100px;" src="https://github.com/Mikadjx/Mikadjx/blob/main/Projet_Onygo.png" alt="Image de votre projet" style="margin-bottom:10px;">
+        <img style="width:500px;" src="https://github.com/Mikadjx/Mikadjx/blob/main/Projet_Onygo.png" alt="Image de votre projet" style="margin-bottom:10px;">
         <h3 style="text-align:center;">ONYGO</h3>
         <p></p>
     </div>
