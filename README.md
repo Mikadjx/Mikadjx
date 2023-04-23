@@ -69,7 +69,7 @@
 <img alt="coding" width="300" height="200" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
  
 
-<div style="display:flex;flex-wrap:wrap; justify-content:center;align-items:center;margin-bottom:20px;">
+<div style="display:flex;flex-wrap:wrap;margin-bottom:20px;">
     <div style="margin-right:20px;">
         <img src="https://via.placeholder.com/150" alt="Image de votre projet" style="margin-bottom:10px;">
         <h3 style="text-align:center;">Titre de votre projet</h3>
