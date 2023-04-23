@@ -14,7 +14,7 @@
 
 <br><h3 align="center">Technical Skills:</h3><br>
 
-| Back-end | Centré | Aligné à droite |
+| BACK-END | FRONT-END | OUTILS |
 | :-------------- | :---: | ---------------: |
 | élément 1       | élément 2 | élément 3       |
 | élément 4       | élément 5 | élément 6       |
