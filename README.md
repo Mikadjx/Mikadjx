@@ -13,7 +13,8 @@
 
 
 <br><h3 align="center">Technical Skills:</h3><br>
-
+<div align="center">
+     
 |     | BACK-END                                    | FRONT-END                                     | OUTILS                                      |
 | --- | ------------------------------------------- | --------------------------------------------- | ------------------------------------------- |
 |     | ![PHP](lien_vers_logo_PHP)                   | ![HTML](lien_vers_logo_HTML)                  | ![GIT](lien_vers_logo_GIT)                   |
@@ -22,7 +23,7 @@
 |     | ![PostgreSQL](lien_vers_logo_PostgreSQL)     | ![JavaScript](lien_vers_logo_JavaScript)       | ![VS Code](lien_vers_logo_VS_Code)           |
 |     | ![Node.js](lien_vers_logo_Node.js)           | ![Angular](lien_vers_logo_Angular)             | ![Lucidchart](lien_vers_logo_Lucidchart)     |
 |     | ![MongoDB](lien_vers_logo_MongoDB)           | ![Ionic](lien_vers_logo_Ionic)                 | ![Figma](lien_vers_logo_Figma)               |
-
+</div>
 <br><br><br><h3 align="center">My Project </h3>
 <p align="center">
 <img alt="coding" width="300" height="200" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
