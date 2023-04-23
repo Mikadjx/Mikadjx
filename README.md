@@ -68,23 +68,23 @@
 <p align="center">
 <img alt="coding" width="300" height="200" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 
-<div style="display:flex;flex-direction:column;align-items:center;margin-bottom:20px;">
+<div style="display:flex;flex-direction:row;align-items:center;margin-bottom:20px;">
     <img src="https://via.placeholder.com/150" alt="Image de votre projet" style="margin-bottom:10px;">
     <h3 style="text-align:center;">Maquettage AFPA</h3>
     <p></p>
 </div>
 
-<div style="display:flex;flex-direction:column;align-items:center;margin-bottom:20px;">
+<div style="display:flex;flex-direction:row;align-items:center;margin-bottom:20px;">
     <img src="https://via.placeholder.com/150" alt="Image de votre projet" style="margin-bottom:10px;">
     <h3 style="text-align:center;">Maquettage AFPA</h3>
     <p></p>
 </div>
-<div style="display:flex;flex-direction:column;align-items:center;margin-bottom:20px;">
+<div style="display:flex;flex-direction:row;align-items:center;margin-bottom:20px;">
     <img src="https://via.placeholder.com/150" alt="Image de votre projet" style="margin-bottom:10px;">
     <h3 style="text-align:center;">Maquettage AFPA</h3>
     <p></p>
 </div>
-<div style="display:flex;flex-direction:column;align-items:center;margin-bottom:20px;">
+<div style="display:flex;flex-direction:row;align-items:center;margin-bottom:20px;">
     <img src="https://via.placeholder.com/150" alt="Image de votre projet" style="margin-bottom:10px;">
     <h3 style="text-align:center;">Maquettage AFPA</h3>
     <p></p>
