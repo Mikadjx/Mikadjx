@@ -14,11 +14,14 @@
 
 <br><h3 align="center">Technical Skills:</h3><br>
 
-| BACK-END | FRONT-END | OUTILS |
+| BACK-END | FRONT-END |OUTILS |
 | :-------------- | :---: | ---------------: |
-| élément 1       | élément 2 | élément 3       |
-| élément 4       | élément 5 | élément 6       |
-| élément 7       | élément 8 | élément 9       |
+| PHP     | HTML | FIGMA      |
+| SYMFONY      |CSS / SASS| VS CODE       |
+| MYSQL | BOOTSTRAP | TRELLO     |
+| POSTGRSQL | JAVA SCRIPT  | DISCORD  |
+| NODE JS | ANGULAR | GIT |
+| EXPRESS | IONIC | LUCIDCHART |
 
 <br><br><br><h3 align="center">My Project </h3>
 <p align="center">
