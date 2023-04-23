@@ -26,7 +26,7 @@
   <tbody>
     <tr>
       <td>Technologies</td>
-      <td> <img src="https://img.icons8.com/officexs/20/000000/php-logo.png"/> </td>
+      <td> <img src="https://img.icons8.com/officexs/50/000000/php-logo.png"/> </td>
       <td> <img src="https://img.icons8.com/color/80/000000/html-5--v1.png"/> </td>
       <td> <img src="https://img.icons8.com/color/80/000000/git.png"/> </td>
     </tr>
