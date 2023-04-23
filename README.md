@@ -18,8 +18,8 @@
   <thead>
     <tr>
       <th></th>
-      <th> BACK-END</th>
-      <th >FRONT-END</th>
+      <th>BACK-END</th>
+      <th>FRONT-END</th>
       <th>OUTILS</th>
     </tr>
   </thead>
@@ -52,8 +52,7 @@
       <td></td>
       <td> <img src="https://img.icons8.com/color/80/000000/nodejs.png"/> </td>
       <td> <img src="https://img.icons8.com/color/80/000000/angularjs.png"/> </td>
-     <td> <img src="https://img.icons8.com/color/80/000000/lucidchart.png"/>  </td>
-    
+      <td> <img src="https://img.icons8.com/color/80/000000/lucidchart.png"/> </td>
     </tr>
     <tr>
       <td></td>
