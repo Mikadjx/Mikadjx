@@ -14,36 +14,46 @@
 
 <br><h3 align="center">Technical Skills:</h3><br>
 
-| BACK-END | FRONT-END |OUTILS |
-| :-------------- | :---: | ---------------: |
-| PHP     | HTML | FIGMA      |
-| SYMFONY      |CSS / SASS| VS CODE       |
-| MYSQL | BOOTSTRAP | TRELLO     |
-| POSTGRSQL | JAVA SCRIPT  | DISCORD  |
-| NODE JS | ANGULAR | GIT |
-| EXPRESS | IONIC | LUCIDCHART |
-
-<table style="width: 500px">
-  <tr>
-    <th>Colonne 1</th>
-    <th>Colonne 2</th>
-    <th>Colonne 3</th>
-  </tr>
-  <tr>
-    <td>Contenu de la colonne 1</td>
-    <td>Contenu de la colonne 2</td>
-    <td>Contenu de la colonne 3</td>
-  </tr>
-  <tr>
-    <td>Contenu de la colonne 1</td>
-    <td>Contenu de la colonne 2</td>
-    <td>Contenu de la colonne 3</td>
-  </tr>
-  <tr>
-    <td>Contenu de la colonne 1</td>
-    <td>Contenu de la colonne 2</td>
-    <td>Contenu de la colonne 3</td>
-  </tr>
+<table>
+  <thead>
+    <tr>
+      <th>BACK-END</th>
+      <th style="width: 120px; text-align: center">FRONT-END</th>
+      <th style="width: 100px; text-align: center">OUTILS</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>PHP</td>
+      <td>HTML</td>
+      <td>GIT</td>
+    </tr>
+    <tr>
+      <td>Symfony</td>
+      <td>CSS/SASS</td>
+      <td>Trello</td>
+    </tr>
+    <tr>
+      <td>MySQL</td>
+      <td>Bootstrap</td>
+      <td>Discord</td>
+    </tr>
+    <tr>
+      <td>PostgreSQL</td>
+      <td>JavaScript</td>
+      <td>VS Code</td>
+    </tr>
+    <tr>
+      <td>Node.js</td>
+      <td>Angular</td>
+      <td>Lucidchart</td>
+    </tr>
+    <tr>
+      <td>MongoDB</td>
+      <td>Ionic</td>
+      <td>Figma</td>
+    </tr>
+  </tbody>
 </table>
 
 <br><br><br><h3 align="center">My Project </h3>
