@@ -82,7 +82,7 @@
     </div><br><br><br>
     <div align="center">
         <img style="width:500px;" src="https://github.com/Mikadjx/Mikadjx/blob/main/Projet_Onygo.png" alt="Image de votre projet" style="margin-bottom:10px;">
-         <h3 style="text-align:center;"><a href="https://github.com/Mikadjx/Sargn_Project">ONYGO</a></h3>
+         <h3 style="text-align:center;"><a href="https://github.com/Mikadjx/Onygo_Project_Angular">ONYGO</a></h3>
         <p></p>
     </div>
 </div>
