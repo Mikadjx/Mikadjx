@@ -69,7 +69,7 @@
 <img width="300" height="180" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
  </p> <br><br><br>
    <div align="center">
-   <h3 style="text-align:center;"><a href="https://github.com/Mikadjx/Mikadjx/blob/main/DWWM_portfolio.png">Portfolio_Bootstrap</a></h3>
+   <h3 style="text-align:center;"><a href="https://github.com/Mikadjx/Mikadjx/blob/main/DWWM_portfolio.png?raw=true">Portfolio_Bootstrap</a></h3>
         <img style="width:500px;" src="https://github.com/Mikadjx/Mikadjx/blob/main/Projet_bootstrap.png" alt="Image du projet" style="margin-bottom:10px;">
         <p></p>
     </div><br><br><br>
@@ -95,6 +95,7 @@
         <p></p>
     </div>
 </div>
+
 
         
 <br><br><br><br><br><br><br><br><h3 align="left">&nbsp; &nbsp;&nbsp;You can find me:</h3><ul><br><p align="left"><a href="https://www.linkedin.com/in/mickael-dijoux-a58797252"><img src="https://zupimages.net/up/22/14/s2g7.png" width="30px"/></a> &nbsp; &nbsp; &nbsp; &nbsp;
