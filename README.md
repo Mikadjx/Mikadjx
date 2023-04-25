@@ -85,7 +85,7 @@
         <p></p>
     </div><br><br><br>
     <div align="center">
-     <h3 style="text-align:center;"><a href="https://github.com/Mikadjx/Onygo_Project_Angular">ONYGO</a></h3>
+     <h3 style="text-align:center;"><a href="https://mikadjx.github.io/Onygo_Project_Angular/">ONYGO</a></h3>
         <img style="width:500px;" src="https://github.com/Mikadjx/Mikadjx/blob/main/Projet_Onygo.png" alt="Image du projet" style="margin-bottom:10px;">
         <p></p>
     </div><br><br><br>
