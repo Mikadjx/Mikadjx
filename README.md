@@ -31,11 +31,10 @@ Si vous souhaitez en savoir plus sur mes compétences, discuter de projets poten
 - GitHub : [Mon Profil GitHub](https://github.com/Mikadjx)
 
 Je serais ravi de vous parler de mes projets, de mon expérience en alternance chez Hutchinson, de ma formation au CESI, et de tout autre sujet qui vous intéresse. Merci de prendre le temps de consulter ma présentation ! 😊
-
 <h3 align="center">Compétences Techniques :</h3>
 
-<div style="display: flex; justify-content: space-between;">
-  <div style="flex: 45%; text-align: left;">
+<div style="display: flex; justify-content: space-between; text-align: center;">
+  <div style="flex: 45%;">
     <h4>Front-End</h4>
     <ul>
       <li><img src="https://img.icons8.com/color/20/000000/html-5--v1.png"/> HTML</li>
@@ -47,7 +46,7 @@ Je serais ravi de vous parler de mes projets, de mon expérience en alternance c
     </ul>
   </div>
 
-  <div style="flex: 45%; text-align: left;">
+  <div style="flex: 45%;">
     <h4>Back-End</h4>
     <ul>
       <li><img src="https://img.icons8.com/officexs/20/000000/php-logo.png"/> PHP</li>
