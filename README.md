@@ -33,20 +33,8 @@ Si vous souhaitez en savoir plus sur mes compétences, discuter de projets poten
 Je serais ravi de vous parler de mes projets, de mon expérience en alternance chez Hutchinson, de ma formation au CESI, et de tout autre sujet qui vous intéresse. Merci de prendre le temps de consulter ma présentation ! 😊
 <h3 align="center">Compétences Techniques :</h3>
 
-<div style="display: flex; justify-content: space-between; text-align: center;">
-  <div style="flex: 45%;">
-    <h4>Front-End</h4>
-    <ul>
-      <li><img src="https://img.icons8.com/color/20/000000/html-5--v1.png"/> HTML</li>
-      <li><img src="https://img.icons8.com/color/20/000000/css3.png"/> CSS</li>
-      <li><img src="https://img.icons8.com/color/20/000000/bootstrap.png"/> Bootstrap</li>
-      <li><img src="https://img.icons8.com/color/20/000000/javascript--v1.png"/> JavaScript</li>
-      <li><img src="https://img.icons8.com/color/20/000000/angularjs.png"/> Angular</li>
-      <li><img src="https://img.icons8.com/color/20/000000/ionic.png"/> Ionic</li>
-    </ul>
-  </div>
-
-  <div style="flex: 45%;">
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <div style="flex: 45%; text-align: left;">
     <h4>Back-End</h4>
     <ul>
       <li><img src="https://img.icons8.com/officexs/20/000000/php-logo.png"/> PHP</li>
@@ -55,6 +43,18 @@ Je serais ravi de vous parler de mes projets, de mon expérience en alternance c
       <li><img src="https://img.icons8.com/color/20/000000/postgreesql.png"/> PostgreSQL</li>
       <li><img src="https://img.icons8.com/color/20/000000/nodejs.png"/> Node.js</li>
       <li><img src="https://img.icons8.com/color/20/000000/mongodb.png"/> MongoDB</li>
+    </ul>
+  </div>
+
+  <div style="flex: 45%; text-align: left;">
+    <h4>Front-End</h4>
+    <ul>
+      <li><img src="https://img.icons8.com/color/20/000000/html-5--v1.png"/> HTML</li>
+      <li><img src="https://img.icons8.com/color/20/000000/css3.png"/> CSS</li>
+      <li><img src="https://img.icons8.com/color/20/000000/bootstrap.png"/> Bootstrap</li>
+      <li><img src="https://img.icons8.com/color/20/000000/javascript--v1.png"/> JavaScript</li>
+      <li><img src="https://img.icons8.com/color/20/000000/angularjs.png"/> Angular</li>
+      <li><img src="https://img.icons8.com/color/20/000000/ionic.png"/> Ionic</li>
     </ul>
   </div>
 </div>
@@ -69,7 +69,6 @@ Je serais ravi de vous parler de mes projets, de mon expérience en alternance c
     <li><img src="https://img.icons8.com/color/20/000000/figma--v1.png"/> Figma</li>
   </ul>
 </div>
-
 
 
 
