@@ -3,7 +3,6 @@
 <br><p align="center"><img alt="coding" width="600" height="150" src="https://zupimages.net/up/22/47/hxxm.jpg" alt="" /></p>
 # Bienvenue sur ma présentation 👋
 
-![Web Developer Logo](https://example.com/web_developer_logo.png)
 
 ## À propos de moi 🚀
 
