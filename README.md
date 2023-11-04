@@ -2,15 +2,35 @@
 <h1 align="center">Hi there I'm Mickael Dijoux 👋</h1>
 <br><p align="center"><img alt="coding" width="600" height="150" src="https://zupimages.net/up/22/47/hxxm.jpg" alt="" /></p>
 <h3 align="center">I'm a passionate Web Developer from France near to orleans</h3><br><br><br>
+# Bienvenue sur ma présentation 👋
 
- I am pleased to inform you that my training as a Web and Mobile Web Developer has recently been completed 🎉. As a result, I am currently seeking an apprenticeship with a company as an Application Developer 🖥️
- 
-🌱 During the DWWM training, I acquired skills to work with front-end languages and frameworks such as HTML, CSS, SASS, Bootstrap, JavaScript, Angular, Ionic, as well as for the back-end part with PHP, Symfony, MySQL, Postgresql, and Node JS/Express..
+![Web Developer Logo](https://example.com/web_developer_logo.png)
 
- 🔭 Currently, I am working with my team on a Symfony project, which involves designing a website that includes a secure electronic signature API for an insurance company's subscription request form.
- 
- Below is a preview of the front-end part created using HTML/SASS and JavaScript : <a href="https://github.com/Mikadjx/Sarpgn_project">SARPGN_PROJECT</a>
+## À propos de moi 🚀
 
+Je suis un passionné de développement Web basé en France, près d'Orléans. En avril 2023, j'ai obtenu mon diplôme de Développeur Web et Web Mobile, marquant une étape importante dans ma carrière 🎉. Depuis octobre, je suis en alternance chez Hutchinson à Montargis, où je travaille sur des projets passionnants en utilisant les technologies .NET Core et Angular. En parallèle, je poursuis mes études à l'école d'ingénieur informatique du CESI.
+
+## Mes compétences 🌱
+
+Au cours de ma formation DWWM, j'ai acquis un large éventail de compétences en développement, couvrant à la fois le front-end et le back-end. Mes projets en alternance chez Hutchinson m'ont permis de me spécialiser dans les technologies .NET Core et Angular.
+
+![HTML Logo](https://example.com/html_logo.png) ![CSS Logo](https://example.com/css_logo.png) ![SASS Logo](https://example.com/sass_logo.png) ![Bootstrap Logo](https://example.com/bootstrap_logo.png) ![JavaScript Logo](https://example.com/javascript_logo.png) ![Angular Logo](https://example.com/angular_logo.png) ![C# Logo](https://example.com/csharp_logo.png) ![.NET Core Logo](https://example.com/dotnetcore_logo.png)
+
+## Mes projets actuels 🔭
+
+En ce moment, je travaille au sein de mon équipe chez Hutchinson sur des projets passionnants impliquant les technologies .NET Core et Angular. Ces projets font partie intégrante de mon expérience en alternance, et je suis enthousiaste à l'idée de contribuer au succès de l'entreprise.
+
+N'hésitez pas à me contacter pour en savoir plus sur ces projets ou pour discuter de nouvelles opportunités de collaboration.
+
+## Contactez-moi 📬
+
+Si vous souhaitez en savoir plus sur mes compétences, discuter de projets potentiels ou simplement faire connaissance, n'hésitez pas à me contacter :
+
+- Email : [dijoux_mickael@outlook.fr](mailto:dijoux_mickael@outlook.fr)
+- LinkedIn : [Mon Profil LinkedIn](https://www.linkedin.com/in/mickael-dijoux-a58797252)
+- GitHub : [Mon Profil GitHub](https://github.com/Mikadjx)
+
+Je serais ravi de vous parler de mes projets, de mon expérience en alternance chez Hutchinson, de ma formation au CESI, ainsi que des technologies .NET Core et Angular que j'utilise. Merci de prendre le temps de consulter ma présentation ! 😊
 
 <br><h3 align="center">Technical Skills:</h3><br>
 <div align="center">
