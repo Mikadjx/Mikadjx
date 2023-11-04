@@ -1,5 +1,5 @@
 
-<h1 align="center">Je m'apelle Mickael👋</h1>
+<h1 align="center">Je m'appelle Mickael👋</h1>
 <br><p align="center"><img alt="coding" width="600" height="150" src="https://zupimages.net/up/22/47/hxxm.jpg" alt="" /></p>
 #Bienvenue sur ma présentation 👋
 
