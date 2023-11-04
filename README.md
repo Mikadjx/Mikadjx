@@ -23,7 +23,7 @@ Ces projets font partie intégrante de mon expérience en alternance, et je suis
 - ![MySQL](https://img.icons8.com/ios-filled/20/000000/mysql-logo.png) MySQL
 - ![PostgreSQL](https://img.icons8.com/color/20/000000/postgreesql.png) PostgreSQL
 - ![Node.js](https://img.icons8.com/color/20/000000/nodejs.png) Node.js
-- ![.NET Core 6](https://img.icons8.com/color/20/000000/dot-net.png) .NET Core 6
+- NET Core 6
 
 ### Front-End
 - ![HTML](https://img.icons8.com/color/20/000000/html-5--v1.png) HTML
