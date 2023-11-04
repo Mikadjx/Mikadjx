@@ -1,7 +1,9 @@
 
 
 <h1 align="center">Je m'appelle Mickael👋</h1>
-<img align="center" alt="coding" width="500" height="200"src="https://user-images.githubusercontent.com/46269057/152985454-fa5accab-1e0a-48ab-b6a9-0a1a6e81aa30.gif">
+<div align="center">
+<img alt="coding" width="500" height="200"src="https://user-images.githubusercontent.com/46269057/152985454-fa5accab-1e0a-48ab-b6a9-0a1a6e81aa30.gif">
+</div>
 
 ## Bienvenue sur ma présentation 🚀
 
