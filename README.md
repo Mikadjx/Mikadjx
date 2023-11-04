@@ -36,18 +36,6 @@ Je serais ravi de vous parler de mes projets, de mon expérience en alternance c
 
 <div style="display: flex; justify-content: space-between;">
   <div style="flex: 45%; text-align: left;">
-    <h4>Back-End</h4>
-    <ul>
-      <li><img src="https://img.icons8.com/officexs/20/000000/php-logo.png"/> PHP</li>
-      <li><img src="https://img.icons8.com/color/20/000000/symfony.png"/> Symfony</li>
-      <li><img src="https://img.icons8.com/ios-filled/20/000000/mysql-logo.png"/> MySQL</li>
-      <li><img src="https://img.icons8.com/color/20/000000/postgreesql.png"/> PostgreSQL</li>
-      <li><img src="https://img.icons8.com/color/20/000000/nodejs.png"/> Node.js</li>
-      <li><img src="https://img.icons8.com/color/20/000000/mongodb.png"/> MongoDB</li>
-    </ul>
-  </div>
-
-  <div style="flex: 45%; text-align: left;">
     <h4>Front-End</h4>
     <ul>
       <li><img src="https://img.icons8.com/color/20/000000/html-5--v1.png"/> HTML</li>
@@ -56,6 +44,18 @@ Je serais ravi de vous parler de mes projets, de mon expérience en alternance c
       <li><img src="https://img.icons8.com/color/20/000000/javascript--v1.png"/> JavaScript</li>
       <li><img src="https://img.icons8.com/color/20/000000/angularjs.png"/> Angular</li>
       <li><img src="https://img.icons8.com/color/20/000000/ionic.png"/> Ionic</li>
+    </ul>
+  </div>
+
+  <div style="flex: 45%; text-align: left;">
+    <h4>Back-End</h4>
+    <ul>
+      <li><img src="https://img.icons8.com/officexs/20/000000/php-logo.png"/> PHP</li>
+      <li><img src="https://img.icons8.com/color/20/000000/symfony.png"/> Symfony</li>
+      <li><img src="https://img.icons8.com/ios-filled/20/000000/mysql-logo.png"/> MySQL</li>
+      <li><img src="https://img.icons8.com/color/20/000000/postgreesql.png"/> PostgreSQL</li>
+      <li><img src="https://img.icons8.com/color/20/000000/nodejs.png"/> Node.js</li>
+      <li><img src="https://img.icons8.com/color/20/000000/mongodb.png"/> MongoDB</li>
     </ul>
   </div>
 </div>
