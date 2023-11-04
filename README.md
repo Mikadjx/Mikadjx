@@ -1,6 +1,5 @@
 <h1 align="center">Je m'appelle Mickael👋</h1>
 
-![Coding](https://zupimages.net/up/22/47/hxxm.jpg)
 
 ## Bienvenue sur ma présentation 🚀
 
