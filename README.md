@@ -63,13 +63,12 @@ N'hésitez pas à me contacter pour en savoir plus sur ces projets ou pour discu
 
 ## Contactez-moi 📬
 
-Si vous souhaitez en savoir plus sur mes compétences, discuter de projets potentiels ou simplement faire connaissance, n'hésitez pas à me contacter :
+Si vous souhaitez en savoir plus sur mes compétences, discuter de projets potentiels ou simplement faire connaissance, n'hésitez pas à me contacter 😊 :
 
 - Email : [dijoux_mickael@outlook.fr](mailto:dijoux_mickael@outlook.fr)
 - LinkedIn : [Mon Profil LinkedIn](https://www.linkedin.com/in/mickael-dijoux-a58797252)
 - GitHub : [Mon Profil GitHub](https://github.com/Mikadjx)
 
-Je serais ravi de vous parler de mes projets, de mon expérience en alternance chez Hutchinson, de ma formation au CESI, et de tout autre sujet qui vous intéresse. Merci de prendre le temps de consulter ma présentation ! 😊
 
 
 
