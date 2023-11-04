@@ -65,9 +65,9 @@ N'hésitez pas à me contacter pour en savoir plus sur ces projets ou pour discu
 
 Si vous souhaitez en savoir plus sur mes compétences, discuter de projets potentiels ou simplement faire connaissance, n'hésitez pas à me contacter 😊 :
 
-- Email : [dijoux_mickael@outlook.fr](mailto:dijoux_mickael@outlook.fr)
-- LinkedIn : [Mon Profil LinkedIn](https://www.linkedin.com/in/mickael-dijoux-a58797252)
-- GitHub : [Mon Profil GitHub](https://github.com/Mikadjx)
+- Email : [Mon E-mail](mailto:dijoux_mickael@outlook.fr)
+- LinkedIn : [Mon Linkedin](https://www.linkedin.com/in/mickael-dijoux-a58797252)
+- GitHub : [Mon Git Hub](https://github.com/Mikadjx)
 
 
 
