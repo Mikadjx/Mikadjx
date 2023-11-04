@@ -22,16 +22,6 @@ Je travaille actuellement au sein de mon équipe chez Hutchinson sur des projets
 
 N'hésitez pas à me contacter pour en savoir plus sur ces projets ou pour discuter de nouvelles opportunités de collaboration.
 
-## Contactez-moi 📬
-
-Si vous souhaitez en savoir plus sur mes compétences, discuter de projets potentiels ou simplement faire connaissance, n'hésitez pas à me contacter :
-
-- Email : [dijoux_mickael@outlook.fr](mailto:dijoux_mickael@outlook.fr)
-- LinkedIn : [Mon Profil LinkedIn](https://www.linkedin.com/in/mickael-dijoux-a58797252)
-- GitHub : [Mon Profil GitHub](https://github.com/Mikadjx)
-
-Je serais ravi de vous parler de mes projets, de mon expérience en alternance chez Hutchinson, de ma formation au CESI, et de tout autre sujet qui vous intéresse. Merci de prendre le temps de consulter ma présentation ! 😊
-
 <h3 align="center">Compétences Techniques :</h3>
 
 <div style="display: flex; justify-content: space-between; text-align: center;">
@@ -70,6 +60,16 @@ Je serais ravi de vous parler de mes projets, de mon expérience en alternance c
     </ul>
   </div>
 </div>
+
+## Contactez-moi 📬
+
+Si vous souhaitez en savoir plus sur mes compétences, discuter de projets potentiels ou simplement faire connaissance, n'hésitez pas à me contacter :
+
+- Email : [dijoux_mickael@outlook.fr](mailto:dijoux_mickael@outlook.fr)
+- LinkedIn : [Mon Profil LinkedIn](https://www.linkedin.com/in/mickael-dijoux-a58797252)
+- GitHub : [Mon Profil GitHub](https://github.com/Mikadjx)
+
+Je serais ravi de vous parler de mes projets, de mon expérience en alternance chez Hutchinson, de ma formation au CESI, et de tout autre sujet qui vous intéresse. Merci de prendre le temps de consulter ma présentation ! 😊
 
 
 
