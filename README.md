@@ -43,7 +43,7 @@ Je serais ravi de vous parler de mes projets, de mon expérience en alternance c
       <li><img src="https://img.icons8.com/ios-filled/20/000000/mysql-logo.png"/> MySQL</li>
       <li><img src="https://img.icons8.com/color/20/000000/postgreesql.png"/> PostgreSQL</li>
       <li><img src="https://img.icons8.com/color/20/000000/nodejs.png"/> Node.js</li>
-      <li><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/2048px-.NET_Core_Logo.svg.png"/> .Net core</li>
+       <li><img src="https://img.icons8.com/color/20/000000/dot-net.png"/></li>
     </ul>
   </div>
 
