@@ -3,26 +3,19 @@
 <p align="center">
   <img alt="coding" width="600" height="150" src="https://zupimages.net/up/22/47/hxxm.jpg" alt="" />
 </p>
-
-## Bienvenue sur ma présentation 👋
+<h3 align="center">Bienvenue sur ma présentation  </h3>
 
 ## À propos de moi 🚀
 
 Je suis un passionné de développement Web basé en France, près d'Orléans. En avril 2023, j'ai obtenu mon diplôme de Développeur Web et Web Mobile, marquant une étape importante dans ma carrière 🎉. Depuis octobre, je suis en alternance chez Hutchinson à Montargis, où je travaille sur des projets passionnants en utilisant les technologies .NET Core et Angular. Parallèlement, je poursuis mes études à l'école d'ingénieur informatique du CESI.
 
-## Mes compétences 🌱
 
-Au cours de ma formation DWWM, j'ai acquis un large éventail de compétences en développement, couvrant à la fois le front-end et le back-end.
-
-![HTML Logo](https://example.com/html_logo.png) ![CSS Logo](https://example.com/css_logo.png) ![SASS Logo](https://example.com/sass_logo.png) ![Bootstrap Logo](https://example.com/bootstrap_logo.png) ![JavaScript Logo](https://example.com/javascript_logo.png) ![Angular Logo](https://example.com/angular_logo.png) ![C# Logo](https://example.com/csharp_logo.png) ![.NET Core Logo](https://example.com/dotnetcore_logo.png)
 
 ## Mes projets actuels 🔭
 
 Je travaille actuellement au sein de mon équipe chez Hutchinson sur des projets passionnants impliquant les technologies .NET Core et Angular. Ces projets font partie intégrante de mon expérience en alternance, et je suis enthousiaste à l'idée de contribuer au succès de l'entreprise.
 
-N'hésitez pas à me contacter pour en savoir plus sur ces projets ou pour discuter de nouvelles opportunités de collaboration.
-
-<h3 align="center">Compétences Techniques :</h3>
+<h3 align="center"> Mes Compétences Techniques 🌱 </h3>
 
 <div style="display: flex; justify-content: space-between; text-align: center;">
   <div style="flex: 30%;">
