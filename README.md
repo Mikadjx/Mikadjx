@@ -5,7 +5,7 @@
 ## Bienvenue sur ma présentation 🚀
 
 Je suis un passionné de développement Web basé en France, près d'Orléans. <br>En avril 2023, j'ai obtenu mon diplôme de Développeur Web et Web Mobile, marquant une étape importante dans ma carrière 🎉.<br>Depuis octobre, je suis en alternance chez Hutchinson à Montargis, où je travaille sur des projets passionnants en utilisant les technologies .NET Core et Angular. 
-<br>Parallèlement, je poursuis mes études à l'école d'ingénieur informatique du CESI.
+Parallèlement, je poursuis mes études à l'école d'ingénieur informatique du CESI.
 
 ## Mes projets actuels 🔭
 
