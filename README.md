@@ -32,58 +32,56 @@ Si vous souhaitez en savoir plus sur mes compétences, discuter de projets poten
 
 Je serais ravi de vous parler de mes projets, de mon expérience en alternance chez Hutchinson, de ma formation au CESI, et de tout autre sujet qui vous intéresse. Merci de prendre le temps de consulter ma présentation ! 😊
 
-<br><h3 align="center">Technical Skills:</h3><br>
 <div align="center">
-<table>
-  <thead>
-    <tr>
-      <th></th>
-      <th>BACK-END</th>
-      <th>FRONT-END</th>
-      <th>OUTILS</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Technologies</td>
-      <td> <img src="https://img.icons8.com/officexs/80/000000/php-logo.png"/> </td>
-      <td> <img src="https://img.icons8.com/color/80/000000/html-5--v1.png"/> </td>
-      <td> <img src="https://img.icons8.com/color/80/000000/git.png"/> </td>
-    </tr>
-    <tr>
-     <td></td>
-      <td> <img src="https://img.icons8.com/color/80/000000/symfony.png"/> </td>
-      <td> <img src="https://img.icons8.com/color/80/000000/css3.png"/> </td>
-      <td> <img src="https://img.icons8.com/color/80/000000/trello.png"/> </td>
-    </tr>
-    <tr>
-      <td></td>
-      <td> <img src="https://img.icons8.com/ios-filled/80/000000/mysql-logo.png"/> </td>
-      <td> <img src="https://img.icons8.com/color/80/000000/bootstrap.png"/> </td>
-      <td> <img src="https://img.icons8.com/fluent/80/000000/discord-new-logo.png"/> </td>
-    </tr>
-    <tr>
-      <td></td>
-      <td> <img src="https://img.icons8.com/color/80/000000/postgreesql.png"/> </td>
-      <td> <img src="https://img.icons8.com/color/80/000000/javascript--v1.png"/> </td>
-      <td> <img src="https://img.icons8.com/color/80/000000/visual-studio-code-2019.png"/> </td>
-    </tr>
-    <tr>
-      <td></td>
-      <td> <img src="https://img.icons8.com/color/80/000000/nodejs.png"/> </td>
-      <td> <img src="https://img.icons8.com/color/80/000000/angularjs.png"/> </td>
-      <td>  </td>
-    </tr>
-    <tr>
-    <td></td>
-      <td> <img src="https://img.icons8.com/color/80/000000/mongodb.png"/> </td>
-      <td> <img src="https://img.icons8.com/color/80/000000/ionic.png"/> </td>
-      <td> <img src="https://img.icons8.com/color/80/000000/figma--v1.png"/> </td>
-    </tr>
-  </tbody>
-</table>
- </div>
- 
+  <table>
+    <thead>
+      <tr>
+        <th></th>
+        <th>BACK-END</th>
+        <th>FRONT-END</th>
+        <th>OUTILS</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Technologies</td>
+        <td> <img src="https://img.icons8.com/officexs/80/000000/php-logo.png"/> </td>
+        <td> <img src="https://img.icons8.com/color/80/000000/html-5--v1.png"/> </td>
+        <td> <img src="https://img.icons8.com/color/80/000000/git.png"/> </td>
+      </tr>
+      <tr>
+        <td></td>
+        <td> <img src="https://img.icons8.com/color/80/000000/symfony.png"/> </td>
+        <td> <img src="https://img.icons8.com/color/80/000000/css3.png"/> </td>
+        <td> <img src="https://img.icons8.com/color/80/000000/trello.png"/> </td>
+      </tr>
+      <tr>
+        <td></td>
+        <td> <img src="https://img.icons8.com/ios-filled/80/000000/mysql-logo.png"/> </td>
+        <td> <img src="https://img.icons8.com/color/80/000000/bootstrap.png"/> </td>
+        <td> <img src="https://img.icons8.com/fluent/80/000000/discord-new-logo.png"/> </td>
+      </tr>
+      <tr>
+        <td></td>
+        <td> <img src="https://img.icons8.com/color/80/000000/postgreesql.png"/> </td>
+        <td> <img src="https://img.icons8.com/color/80/000000/javascript--v1.png"/> </td>
+        <td> <img src="https://img.icons8.com/color/80/000000/visual-studio-code-2019.png"/> </td>
+      </tr>
+      <tr>
+        <td></td>
+        <td> <img src="https://img.icons8.com/color/80/000000/nodejs.png"/> </td>
+        <td> <img src="https://img.icons8.com/color/80/000000/angularjs.png"/> </td>
+        <td>  </td>
+      </tr>
+      <tr>
+        <td></td>
+        <td> <img src="https://img.icons8.com/color/80/000000/mongodb.png"/> </td>
+        <td> <img src="https://img.icons8.com/color/80/000000/ionic.png"/> </td>
+        <td> <img src="https://img.icons8.com/color/80/000000/figma--v1.png"/> </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 <br><br><br><h3 align="center">My Project </h3>
 <p align="center">
 <img width="300" height="180" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
