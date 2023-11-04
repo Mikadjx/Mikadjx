@@ -6,7 +6,7 @@
 
 Je suis un passionné de développement Web et d'applications basé en France, près d'Orléans. <br>En avril 2023, j'ai obtenu mon diplôme de Développeur Web et Web Mobile, marquant une étape importante dans ma carrière 🎉.<br>Depuis octobre, Je suis actuellement en alternance chez Hutchinson à Montargis, où je travaille sur des projets passionnants, tout en poursuivant mes études à l'école d'ingénieur informatique du CESI.
 
-<img align="right" alt="coding" with="50" src="https://user-images.githubusercontent.com/46269057/152985454-fa5accab-1e0a-48ab-b6a9-0a1a6e81aa30.gif">
+<img align="right" alt="coding" with="50" height="50" src="https://user-images.githubusercontent.com/46269057/152985454-fa5accab-1e0a-48ab-b6a9-0a1a6e81aa30.gif">
 
 ## Mes projets actuels 🔭
 
