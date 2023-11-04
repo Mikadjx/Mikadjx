@@ -1,4 +1,4 @@
-# Je m'appelle Mickael 👋
+<h1 align="center">Je m'appelle Mickael👋</h1>
 
 ![Coding](https://zupimages.net/up/22/47/hxxm.jpg)
 
@@ -39,7 +39,7 @@ Je travaille actuellement au sein de mon équipe chez Hutchinson sur des projets
 
 Si vous souhaitez en savoir plus sur mes compétences, discuter de projets potentiels ou simplement faire connaissance, n'hésitez pas à me contacter 😊 :
 
-- Email : [dijoux_mickael@outlook.fr](mailto:dijoux_mickael@outlook.fr)
+- [dijoux_mickael@outlook.fr](mailto:dijoux_mickael@outlook.fr)
 - [Mon LinkedIn](https://www.linkedin.com/in/mickael-dijoux-a58797252)
 - [Mon GitHub](https://github.com/Mikadjx)
 
