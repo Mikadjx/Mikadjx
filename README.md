@@ -1,8 +1,7 @@
 
-
-<h1 align="center">Je m'appelle Mickael👋</h1>
 <img align="right" alt="coding" with="50" height="120" src="https://user-images.githubusercontent.com/46269057/152985454-fa5accab-1e0a-48ab-b6a9-0a1a6e81aa30.gif">
 
+<h1 align="center">Je m'appelle Mickael👋</h1>
 
 ## Bienvenue sur ma présentation 🚀
 
