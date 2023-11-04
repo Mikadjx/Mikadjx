@@ -1,7 +1,6 @@
 
 <h1 align="center">Hi there I'm Mickael Dijoux 👋</h1>
 <br><p align="center"><img alt="coding" width="600" height="150" src="https://zupimages.net/up/22/47/hxxm.jpg" alt="" /></p>
-<h3 align="center">I'm a passionate Web Developer from France near to orleans</h3><br><br><br>
 # Bienvenue sur ma présentation 👋
 
 ![Web Developer Logo](https://example.com/web_developer_logo.png)
@@ -30,7 +29,7 @@ Si vous souhaitez en savoir plus sur mes compétences, discuter de projets poten
 - LinkedIn : [Mon Profil LinkedIn](https://www.linkedin.com/in/mickael-dijoux-a58797252)
 - GitHub : [Mon Profil GitHub](https://github.com/Mikadjx)
 
-Je serais ravi de vous parler de mes projets, de mon expérience en alternance chez Hutchinson, de ma formation au CESI, ainsi que des technologies .NET Core et Angular que j'utilise. Merci de prendre le temps de consulter ma présentation ! 😊
+Je serais ravi de vous parler de mes projets, de mon expérience en alternance chez Hutchinson, de ma formation au CESI, et de tout autre sujet qui vous intéresse. Merci de prendre le temps de consulter ma présentation ! 😊
 
 <br><h3 align="center">Technical Skills:</h3><br>
 <div align="center">
