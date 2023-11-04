@@ -34,7 +34,7 @@ Je serais ravi de vous parler de mes projets, de mon expérience en alternance c
 
 <h3 align="center">Compétences Techniques :</h3>
 
-<div style="display: flex; justify-content: space-between; align-items: center;">
+<div style="display: flex; justify-content: space-between;">
   <div style="flex: 45%; text-align: left;">
     <h4>Back-End</h4>
     <ul>
@@ -70,6 +70,7 @@ Je serais ravi de vous parler de mes projets, de mon expérience en alternance c
     <li><img src="https://img.icons8.com/color/20/000000/figma--v1.png"/> Figma</li>
   </ul>
 </div>
+
 
 
 
