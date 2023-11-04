@@ -34,8 +34,8 @@ Je serais ravi de vous parler de mes projets, de mon expérience en alternance c
 
 <h3 align="center">Compétences Techniques :</h3>
 
-<div style="display: flex; justify-content: space-between;">
-  <div style="flex: 30%; text-align: left;">
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <div style="flex: 45%; text-align: left;">
     <h4>Back-End</h4>
     <ul>
       <li><img src="https://img.icons8.com/officexs/20/000000/php-logo.png"/> PHP</li>
@@ -47,7 +47,7 @@ Je serais ravi de vous parler de mes projets, de mon expérience en alternance c
     </ul>
   </div>
 
-  <div style="flex: 30%; text-align: left;">
+  <div style="flex: 45%; text-align: left;">
     <h4>Front-End</h4>
     <ul>
       <li><img src="https://img.icons8.com/color/20/000000/html-5--v1.png"/> HTML</li>
@@ -58,17 +58,17 @@ Je serais ravi de vous parler de mes projets, de mon expérience en alternance c
       <li><img src="https://img.icons8.com/color/20/000000/ionic.png"/> Ionic</li>
     </ul>
   </div>
+</div>
 
-  <div style="flex: 30%; text-align: left;">
-    <h4>Outils</h4>
-    <ul>
-      <li><img src="https://img.icons8.com/color/20/000000/git.png"/> Git</li>
-      <li><img src="https://img.icons8.com/color/20/000000/trello.png"/> Trello</li>
-      <li><img src="https://img.icons8.com/fluent/20/000000/discord-new-logo.png"/> Discord</li>
-      <li><img src="https://img.icons8.com/color/20/000000/visual-studio-code-2019.png"/> Visual Studio Code</li>
-      <li><img src="https://img.icons8.com/color/20/000000/figma--v1.png"/> Figma</li>
-    </ul>
-  </div>
+<div style="text-align: center;">
+  <h4>Outils</h4>
+  <ul>
+    <li><img src="https://img.icons8.com/color/20/000000/git.png"/> Git</li>
+    <li><img src="https://img.icons8.com/color/20/000000/trello.png"/> Trello</li>
+    <li><img src="https://img.icons8.com/fluent/20/000000/discord-new-logo.png"/> Discord</li>
+    <li><img src="https://img.icons8.com/color/20/000000/visual-studio-code-2019.png"/> Visual Studio Code</li>
+    <li><img src="https://img.icons8.com/color/20/000000/figma--v1.png"/> Figma</li>
+  </ul>
 </div>
 
 
