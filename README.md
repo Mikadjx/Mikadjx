@@ -2,7 +2,11 @@
 <img alt="coding" width="400" height="200" src="https://user-images.githubusercontent.com/46269057/152985454-fa5accab-1e0a-48ab-b6a9-0a1a6e81aa30.gif">
 </div>
 
-[🌍 Traduire en anglais](https://translate.google.com/translate?hl=en&sl=fr&tl=en&u=https://github.com/Mikadjx)
+<div align="right">
+    <a href="https://translate.google.com/translate?hl=en&sl=fr&tl=en&u=https://github.com/Mikadjx" target="_blank">
+        <img src="https://img.shields.io/badge/🌍%20Translate%20in%20English-blue?style=for-the-badge" alt="Translate in English">
+    </a>
+</div>
 
 # Je m'appelle Mickaël 👋
 
