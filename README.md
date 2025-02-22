@@ -1,3 +1,7 @@
+<div align="center">
+<img alt="coding" width="400" height="200" src="https://user-images.githubusercontent.com/46269057/152985454-fa5accab-1e0a-48ab-b6a9-0a1a6e81aa30.gif">
+</div>
+
 # Je m'appelle Mickaël 👋
 
 ## Bienvenue sur ma présentation 🚀
@@ -6,13 +10,18 @@ Je suis un passionné de développement Web et d'applications basé en France, p
 En avril 2023, j'ai obtenu mon diplôme de Développeur Web et Web Mobile 🎉.  
 J'ai ensuite poursuivi en alternance chez Hutchinson, où j'ai obtenu mon diplôme de Concepteur Développeur d'Applications (CDA) en entreprise.
 
-Aujourd'hui, j'ai décidé de continuer dans le milieu industriel et j'évolue actuellement chez MSL Circuits en tant que Développeur Informatique au sein du service Équipement Industriel. Mon rôle consiste à développer et maintenir les applications existantes pour répondre aux besoins de production et d'amélioration continue.
+Aujourd'hui, j'ai décidé de continuer dans le milieu industriel et j'évolue actuellement chez **MSL Circuits** en tant que **Développeur Informatique** au sein du service Équipement Industriel.  
+Mon rôle consiste à développer et maintenir les applications existantes pour répondre aux besoins de production et d'amélioration continue.
 
-Je continue également mes études à l'école d'ingénieur informatique du CESI en niveau Master, avec l'objectif d'obtenir un diplôme de Manager en Architecture et Applications des Systèmes d'Information (SI).
+Je continue également mes études à l'école d'ingénieur informatique du **CESI** en niveau Master, avec l'objectif d'obtenir un diplôme de **Manager en Architecture et Applications des Systèmes d'Information (SI)**.
+
+---
 
 ## Mes projets actuels 🔭
 
-Chez MSL Circuits, je suis en charge du développement et de la maintenance d'applications industrielles, assurant leur évolution pour optimiser les processus de production.
+Chez **MSL Circuits**, je suis en charge du développement et de la maintenance d'applications industrielles, assurant leur évolution pour optimiser les processus de production.
+
+---
 
 ## Mes Compétences Techniques 🌱
 
@@ -43,10 +52,12 @@ Chez MSL Circuits, je suis en charge du développement et de la maintenance d'ap
 - ![Visual Studio Code](https://img.icons8.com/color/20/000000/visual-studio-code-2019.png) Visual Studio Code
 - ![Figma](https://img.icons8.com/color/20/000000/figma--v1.png) Figma
 
+---
+
 ## Contactez-moi 📬
 
 Si vous souhaitez en savoir plus sur mes compétences, discuter de projets potentiels ou simplement faire connaissance, n'hésitez pas à me contacter 😊 :
 
-- [dijoux_mickael@outlook.fr](mailto:dijoux_mickael@outlook.fr)
-- [Mon LinkedIn](https://www.linkedin.com/in/mickael-dijoux-a58797252)
-- [Mon GitHub](https://github.com/Mikadjx)
+- 📧 [dijoux_mickael@outlook.fr](mailto:dijoux_mickael@outlook.fr)
+- 💼 [Mon LinkedIn](https://www.linkedin.com/in/mickael-dijoux-a58797252)
+- 🖥️ [Mon GitHub](https://github.com/Mikadjx)
