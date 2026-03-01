@@ -38,7 +38,7 @@ Chez **MSL Circuits**, je suis en charge du développement et de la maintenance 
 - ![PostgreSQL](https://img.icons8.com/color/20/000000/postgreesql.png) PostgreSQL
 - ![Node.js](https://img.icons8.com/color/20/000000/nodejs.png) Node.js
 - ![MongoDB](https://img.icons8.com/color/20/000000/mongodb.png) MongoDB
-- .NET Core 6
+- .NET Core
 
 ### Front-End
 - ![HTML](https://img.icons8.com/color/20/000000/html-5--v1.png) HTML
