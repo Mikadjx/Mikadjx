@@ -64,6 +64,6 @@ Chez **MSL Circuits**, je suis en charge du développement et de la maintenance 
 
 Si vous souhaitez en savoir plus sur mes compétences, discuter de projets potentiels ou simplement faire connaissance, n'hésitez pas à me contacter 😊 :
 
-- 📧 [dijoux_mickael@outlook.fr](mailto:dijoux_mickael@outlook.fr)
+- 📧 [dijoux_mickael@outlook.fr](mailto:mickael.dijoux97@gmail.com)
 - 💼 [Mon LinkedIn](https://www.linkedin.com/in/mickael-dijoux-a58797252)
-- 🖥️ [Mon Portfolio](https://portfolio-v1-d5a.pages.dev/)
+- 🖥️ [Mon Portfolio](https://portfolio.mickael.dev.fabdevlab.fr/)
